@@ -1,0 +1,1 @@
+# MSIAppFactory-ApplistGenerator
